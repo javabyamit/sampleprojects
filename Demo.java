@@ -1,6 +1,8 @@
 class Super{
 	int i = 20;
 	System.out.println("hello");
+	System.out.println("Amit Developer");
+
 }
 
 class sub extends Super{
