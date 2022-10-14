@@ -1,5 +1,6 @@
 class Super{
 	int i = 20;
+	System.out.println("Hi, Amit ");
 	
 }
 
